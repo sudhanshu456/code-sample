@@ -1,7 +1,8 @@
 
-# Personal Medical Assistant 
+# Personal Medical Assistant Using Computer Vision and API's
 
-### Mini Project Repo 
+### Mini Project Code
+
 
 
 ![screenshots 1](/screenshots/screenshot1.jpg)
